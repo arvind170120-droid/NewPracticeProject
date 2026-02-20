@@ -7,6 +7,7 @@ public class ConflictClass
 	@Test
 	public void m()
 	{
+		System.out.println("line from b1");
 		System.out.println("line from b2");
 	}
 
