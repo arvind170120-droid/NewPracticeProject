@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-20T13:24:26 IST" name="Default suite" finished-at="2026-02-20T13:24:31 IST" duration-ms="5283">
+    <groups>
+    </groups>
+    <test started-at="2026-02-20T13:24:26 IST" name="Default test" finished-at="2026-02-20T13:24:31 IST" duration-ms="5283">
+      <class name="Tasks.DynamicTable">
+        <test-method signature="dynamicTableTest()[pri:0, instance:Tasks.DynamicTable@c730b35]" started-at="2026-02-20T13:24:26 IST" name="dynamicTableTest" finished-at="2026-02-20T13:24:31 IST" duration-ms="5217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamicTableTest -->
+      </class> <!-- Tasks.DynamicTable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
