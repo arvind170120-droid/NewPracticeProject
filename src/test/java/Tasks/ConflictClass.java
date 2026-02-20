@@ -8,6 +8,8 @@ public class ConflictClass
 	public void m()
 	{
 		System.out.println("line from b2");
+		
+		System.out.println("Extra line b2");
 	}
 
 }
