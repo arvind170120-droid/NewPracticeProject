@@ -24,7 +24,7 @@ public class PaginationTable
 		Actions act = new Actions(driver);
 		act.scrollToElement(driver.findElement(By.xpath("//h2[text()='Visitors']"))).perform();
 
-		String product="Desktop Computer";
+		String product="Portable Charger";
 		
 		List<WebElement> eles = driver.findElements(By.xpath("//ul[@id='pagination']//a"));
 		for(WebElement ele:eles)
