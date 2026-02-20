@@ -9,5 +9,6 @@ public class ClassB2
 	{
 		System.out.println("hello");
 	}
+	
 
 }
